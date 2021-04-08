@@ -1,0 +1,3 @@
+# FiltersDojo
+
+Exercise using Javascript, html and CSS. You can upload any pics from your device and add filters as contrast,saturation,etc...
